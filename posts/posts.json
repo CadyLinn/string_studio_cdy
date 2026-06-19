@@ -61,5 +61,14 @@
     "summary": "RAG 讓 AI 從「會聊天」走向「真正能工作」：先查資料，再回答問題。",
     "summary_en": "RAG transforms AI from 'good at chatting' to 'actually able to work': look up the data first, then answer.",
     "tags": ["RAG", "AI", "LLM"]
+  },
+  {
+    "slug": "day7",
+    "title": "Day 7 - Von Neumann Model 馮·紐曼模型",
+    "title_en": "Day 7 - Von Neumann Model",
+    "date": "2026-06-21",
+    "summary": "馮·紐曼提出「儲存程式概念」，將電腦硬體劃分為四大子系統：Memory、ALU、CU、I/O。",
+    "summary_en": "Von Neumann's 'Stored-program concept' divided computer hardware into four subsystems: Memory, ALU, CU, and I/O.",
+    "tags": ["Von Neumann", "computer architecture"]
   }
 ]
