@@ -1,8 +1,8 @@
 ## 日更挑戰 Day 3 — 每日啃一點原文 CS & Coding 教科書
 
-![Five Concept Areas of CS](images/S__50610183.jpg)
+![Writing a program - Two Steps](images/S__50626563_0.jpg)
 
-![Algorithms and Programming](images/S__50610184.jpg)
+![Computers and Programs](images/S__50626564_0.jpg)
 
 ### Algorithm vs Programming（演算法與程式設計）
 
