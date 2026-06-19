@@ -66,7 +66,7 @@ print(f"Result: {result}")
 
 ## Daily Challenge Day 3 — Reading CS & Coding Textbooks Every Day
 
-### [Ch1-4] Algorithm vs Programming
+### Algorithm vs Programming
 
 Many people think programming means jumping straight into writing code, but in Computer Science, there are usually two steps involved.
 

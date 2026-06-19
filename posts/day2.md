@@ -65,7 +65,7 @@ print("Hello World!")
 
 ## Daily Challenge Day 2 — Reading CS & Coding Textbooks Every Day
 
-### [Ch1-3] The Five Concept Areas of Computer Science
+### The Five Concept Areas of Computer Science
 
 Today I read something interesting: Computer Science can actually be divided into five main research areas (Concept Areas), and the programming we commonly encounter is just one part of it.
 
