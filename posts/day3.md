@@ -16,7 +16,7 @@
 
 並將解決問題的流程拆解成一步一步的指令。
 
-這個步驟稱為 **Algorithm（演算法）**。
+這個步驟稱為：**Algorithm（演算法）**
 
 簡單來說，演算法就是解決問題的方法與流程。
 
@@ -31,15 +31,21 @@
 
 當演算法設計完成後，下一步就是把這些指令翻譯成電腦能理解的語言。
 
-例如：Python、Java、C#、JavaScript
+例如：
+- Python
+- Java
+- C#
+- JavaScript
 
-這個過程稱為 **Programming（程式設計）**。
+這個過程稱為：**Programming（程式設計）**
 
 當演算法被轉換成程式碼後，它就成為真正可以執行的 Program（程式）。
 
 ### 今天最大的收穫
 
-Computer（電腦）其實非常強大，但並不聰明。它不會自己思考，也不會知道你想做什麼。它只能按照收到的指令一步一步執行。
+Computer（電腦）其實非常強大，但並不聰明。
+它不會自己思考，也不會知道你想做什麼。
+它只能按照收到的指令一步一步執行。
 
 因此：
 - **Algorithm** 決定「要做什麼」
@@ -47,24 +53,15 @@ Computer（電腦）其實非常強大，但並不聰明。它不會自己思考
 
 程式的本質，就是把人類的想法轉換成電腦能理解的語言。
 
-```python
-# Algorithm: Add two numbers
-# Step 1: Input two numbers
-# Step 2: Add them
-# Step 3: Display result
-
-# Programming: Translate algorithm into Python
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-result = a + b
-print(f"Result: {result}")
-```
-
 #ComputerScience #Programming #Algorithm #每日啃一點原文cs
 
 <!-- EN -->
 
 ## Daily Challenge Day 3 — Reading CS & Coding Textbooks Every Day
+
+![Writing a program - Two Steps](images/S__50626563_0.jpg)
+
+![Computers and Programs](images/S__50626564_0.jpg)
 
 ### Algorithm vs Programming
 
@@ -78,7 +75,7 @@ Before writing any code, a Computer Scientist needs to think:
 
 And break down the problem-solving process into step-by-step instructions.
 
-This step is called an **Algorithm**.
+This step is called: **Algorithm**
 
 Simply put, an algorithm is the method and process for solving a problem.
 
@@ -93,33 +90,26 @@ This is a simple algorithm.
 
 Once the algorithm is designed, the next step is to translate those instructions into a language the computer can understand.
 
-For example: Python, Java, C#, JavaScript
+For example:
+- Python
+- Java
+- C#
+- JavaScript
 
-This process is called **Programming**.
+This process is called: **Programming**
 
 When an algorithm is converted into code, it becomes a real executable Program.
 
 ### Biggest Takeaway Today
 
-Computers are incredibly powerful, but they're not smart. They can't think on their own and don't know what you want to do. They can only execute instructions step by step.
+Computers are incredibly powerful, but they're not smart.
+They can't think on their own and don't know what you want to do.
+They can only execute instructions step by step.
 
 Therefore:
 - **Algorithm** determines "what to do"
 - **Programming** determines "how to tell the computer to do it"
 
 The essence of programming is translating human ideas into a language computers can understand.
-
-```python
-# Algorithm: Add two numbers
-# Step 1: Input two numbers
-# Step 2: Add them
-# Step 3: Display result
-
-# Programming: Translate algorithm into Python
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-result = a + b
-print(f"Result: {result}")
-```
 
 #ComputerScience #Programming #Algorithm #CSDailyChallenge
