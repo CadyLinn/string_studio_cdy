@@ -1,9 +1,5 @@
 ## 日更挑戰 Day 3 — 每日啃一點原文 CS & Coding 教科書
 
-![Writing a program - Two Steps](images/S__50626563_0.jpg)
-
-![Computers and Programs](images/S__50626564_0.jpg)
-
 ### Algorithm vs Programming（演算法與程式設計）
 
 很多人以為寫程式就是直接開始打 Code，但其實在 Computer Science（電腦科學）中，通常會先經過兩個步驟。
@@ -41,6 +37,8 @@
 
 當演算法被轉換成程式碼後，它就成為真正可以執行的 Program（程式）。
 
+![Writing a program - Two Steps](images/S__50626563_0.jpg)
+
 ```python
 # Algorithm: Add two numbers
 # Step 1: Input two numbers
@@ -60,6 +58,8 @@ Computer（電腦）其實非常強大，但並不聰明。
 它不會自己思考，也不會知道你想做什麼。
 它只能按照收到的指令一步一步執行。
 
+![Computers and Programs](images/S__50626564_0.jpg)
+
 因此：
 - **Algorithm** 決定「要做什麼」
 - **Programming** 決定「怎麼告訴電腦去做」
@@ -78,10 +78,6 @@ Computer（電腦）其實非常強大，但並不聰明。
 <!-- EN -->
 
 ## Daily Challenge Day 3 — Reading CS & Coding Textbooks Every Day
-
-![Writing a program - Two Steps](images/S__50626563_0.jpg)
-
-![Computers and Programs](images/S__50626564_0.jpg)
 
 ### Algorithm vs Programming
 
@@ -120,6 +116,8 @@ This process is called: **Programming**
 
 When an algorithm is converted into code, it becomes a real executable Program.
 
+![Writing a program - Two Steps](images/S__50626563_0.jpg)
+
 ```python
 # Algorithm: Add two numbers
 # Step 1: Input two numbers
@@ -138,6 +136,8 @@ print(f"Result: {result}")
 Computers are incredibly powerful, but they're not smart.
 They can't think on their own and don't know what you want to do.
 They can only execute instructions step by step.
+
+![Computers and Programs](images/S__50626564_0.jpg)
 
 Therefore:
 - **Algorithm** determines "what to do"
