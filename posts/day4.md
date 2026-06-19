@@ -1,6 +1,6 @@
 ## 日更挑戰 Day 4 — 每日啃一點原文 CS & Coding 教科書
 
-### 【Ch1-1】Turing Model（圖靈模型）
+### Turing Model（圖靈模型）
 
 在現代電腦出現之前，英國數學家暨電腦科學先驅 Alan Turing 於 1937 年提出了一個革命性的概念：
 

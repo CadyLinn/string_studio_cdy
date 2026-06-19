@@ -2,7 +2,7 @@
 
 ![Book Cover](images/S__50610180_0.jpg)
 
-### [Ch1-1] Computer Science（電腦科學）
+### Computer Science（電腦科學）
 
 **Computer Science（電腦科學）** 包含基本的 Hardware（硬體）與 Software（軟體）
 

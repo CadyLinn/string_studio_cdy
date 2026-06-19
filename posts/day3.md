@@ -1,6 +1,6 @@
 ## 日更挑戰 Day 3 — 每日啃一點原文 CS & Coding 教科書
 
-### 【Ch1-4】Algorithm vs Programming（演算法與程式設計）
+### Algorithm vs Programming（演算法與程式設計）
 
 很多人以為寫程式就是直接開始打 Code，但其實在 Computer Science（電腦科學）中，通常會先經過兩個步驟。
 

@@ -1,6 +1,6 @@
 ## 日更挑戰 Day 5 — 每日啃一點原文 CS & Coding 教科書
 
-### 【Ch1-1】Turing Model（圖靈模型）續篇
+### Turing Model（圖靈模型）續篇
 
 今天讀到電腦科學最重要的起點之一 —— 圖靈模型（Turing Model）。
 

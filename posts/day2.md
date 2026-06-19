@@ -1,6 +1,6 @@
 ## 日更挑戰 Day 2 — 每日啃一點原文 CS & Coding 教科書
 
-### 【Ch1-3】The Five Concept Areas of Computer Science（電腦科學的五大核心領域）
+### The Five Concept Areas of Computer Science（電腦科學的五大核心領域）
 
 今天讀到一個很有趣的觀念：
 Computer Science（電腦科學）其實可以拆分成五個主要的研究領域（Concept Areas），而我們平常接觸到的程式設計只是其中的一部分。

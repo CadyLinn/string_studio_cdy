@@ -1,6 +1,6 @@
 ## 日更挑戰 Day 1 — 每日啃一點原文 CS & Coding 教科書
 
-### [Ch1-2] Computer Science（電腦科學）
+### Computer Science（電腦科學）
 
 Computer Science（電腦科學）不只是使用電腦，而是學習如何透過程式與技術來解決問題（Problem Solving）。
 

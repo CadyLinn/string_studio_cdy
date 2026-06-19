@@ -1,48 +1,48 @@
 [
   {
     "slug": "day0",
-    "title": "Day 0 - [Ch1-1] Computer Science 電腦科學",
-    "title_en": "Day 0 - [Ch1-1] Computer Science",
+    "title": "Day 0 - Computer Science 電腦科學",
+    "title_en": "Day 0 - Computer Science",
     "date": "2026-06-14",
     "summary": "CS 的定義：硬體與軟體、問題解決、從 Consumer 到 Creator 的轉變。",
     "summary_en": "Definition of CS: hardware & software, problem solving, and the shift from Consumer to Creator.",
-    "tags": ["CS fundamentals", "Ch1"]
+    "tags": ["CS fundamentals"]
   },
   {
     "slug": "day1",
-    "title": "Day 1 - [Ch1-2] CS IS and IS NOT",
-    "title_en": "Day 1 - [Ch1-2] CS IS and IS NOT",
+    "title": "Day 1 - CS IS and IS NOT",
+    "title_en": "Day 1 - CS IS and IS NOT",
     "date": "2026-06-15",
     "summary": "電腦科學不是「使用科技」，而是「創造科技」。Don't just play on your phone, program it!",
     "summary_en": "CS is not about 'using technology' but 'creating technology.' Don't just play on your phone, program it!",
-    "tags": ["CS fundamentals", "Ch1"]
+    "tags": ["CS fundamentals"]
   },
   {
     "slug": "day2",
-    "title": "Day 2 - [Ch1-3] 電腦科學的五大核心領域",
-    "title_en": "Day 2 - [Ch1-3] The Five Concept Areas of CS",
+    "title": "Day 2 - 電腦科學的五大核心領域",
+    "title_en": "Day 2 - The Five Concept Areas of CS",
     "date": "2026-06-16",
     "summary": "電腦系統、演算法與程式設計、資料分析、網路、運算影響。CS 不只是寫程式。",
     "summary_en": "Computer Systems, Algorithms & Programming, Data Analysis, Networks, Impact of Computing. CS is more than just coding.",
-    "tags": ["CS fundamentals", "Ch1"]
+    "tags": ["CS fundamentals"]
   },
   {
     "slug": "day3",
-    "title": "Day 3 - [Ch1-4] Algorithm vs Programming",
-    "title_en": "Day 3 - [Ch1-4] Algorithm vs Programming",
+    "title": "Day 3 - Algorithm vs Programming",
+    "title_en": "Day 3 - Algorithm vs Programming",
     "date": "2026-06-17",
     "summary": "Algorithm 決定「要做什麼」，Programming 決定「怎麼告訴電腦去做」。",
     "summary_en": "Algorithm determines 'what to do,' Programming determines 'how to tell the computer to do it.'",
-    "tags": ["algorithm", "programming", "Ch1"]
+    "tags": ["algorithm", "programming"]
   },
   {
     "slug": "day4",
-    "title": "Day 4 - [Ch1-1] Turing Model 圖靈模型",
-    "title_en": "Day 4 - [Ch1-1] Turing Model",
+    "title": "Day 4 - Turing Model 圖靈模型",
+    "title_en": "Day 4 - Turing Model",
     "date": "2026-06-18",
     "summary": "Alan Turing 1937 年提出通用計算裝置，電腦的本質：Input → Process → Output。",
     "summary_en": "Alan Turing's 1937 Universal Computational Device. The essence of computers: Input → Process → Output.",
-    "tags": ["Turing", "data processor", "Ch1"]
+    "tags": ["Turing", "data processor"]
   },
   {
     "slug": "day5",
@@ -51,7 +51,7 @@
     "date": "2026-06-19",
     "summary": "同一組資料，套用不同的程式，就能得到完全不同的結果。真正決定結果的是「程式規則」。",
     "summary_en": "Same data, different programs, completely different results. What truly determines the outcome is the 'program rules.'",
-    "tags": ["Turing", "programmable", "Ch1"]
+    "tags": ["Turing", "programmable"]
   },
   {
     "slug": "day6",
