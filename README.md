@@ -1,5 +1,7 @@
 # String Studio
 
+🌐 **Live Site:** [cs.cadylin.tw](https://cs.cadylin.tw)
+
 A daily challenge project documenting Computer Science & Coding knowledge. The author reads CS and programming textbooks every day, takes notes with illustrations, and shares key concepts, insights, and learning reflections through articles.
 
 ## How to Add a New Post
