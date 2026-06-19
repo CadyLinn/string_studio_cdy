@@ -41,6 +41,19 @@
 
 當演算法被轉換成程式碼後，它就成為真正可以執行的 Program（程式）。
 
+```python
+# Algorithm: Add two numbers
+# Step 1: Input two numbers
+# Step 2: Add them
+# Step 3: Display result
+
+# Programming: Translate algorithm into Python
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+result = a + b
+print(f"Result: {result}")
+```
+
 ### 今天最大的收穫
 
 Computer（電腦）其實非常強大，但並不聰明。
@@ -52,6 +65,13 @@ Computer（電腦）其實非常強大，但並不聰明。
 - **Programming** 決定「怎麼告訴電腦去做」
 
 程式的本質，就是把人類的想法轉換成電腦能理解的語言。
+
+> **統整：Algorithm vs Programming**
+> | | Algorithm | Programming |
+> |---|---|---|
+> | 做什麼 | 設計解決問題的步驟 | 把步驟翻譯成程式碼 |
+> | 產出 | 流程與邏輯 | 可執行的程式 |
+> | 例子 | 1→輸入 2→相加 3→顯示 | `a + b → print(result)` |
 
 #ComputerScience #Programming #Algorithm #每日啃一點原文cs
 
@@ -100,6 +120,19 @@ This process is called: **Programming**
 
 When an algorithm is converted into code, it becomes a real executable Program.
 
+```python
+# Algorithm: Add two numbers
+# Step 1: Input two numbers
+# Step 2: Add them
+# Step 3: Display result
+
+# Programming: Translate algorithm into Python
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+result = a + b
+print(f"Result: {result}")
+```
+
 ### Biggest Takeaway Today
 
 Computers are incredibly powerful, but they're not smart.
@@ -111,5 +144,12 @@ Therefore:
 - **Programming** determines "how to tell the computer to do it"
 
 The essence of programming is translating human ideas into a language computers can understand.
+
+> **Summary: Algorithm vs Programming**
+> | | Algorithm | Programming |
+> |---|---|---|
+> | What | Design steps to solve problems | Translate steps into code |
+> | Output | Logic and process | Executable program |
+> | Example | 1→Input 2→Add 3→Display | `a + b → print(result)` |
 
 #ComputerScience #Programming #Algorithm #CSDailyChallenge

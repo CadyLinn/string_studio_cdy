@@ -41,11 +41,29 @@ Algorithms（演算法）與 Programming（程式設計）就是透過撰寫 Cod
 "Hello World!"
 這也是許多人學習程式設計的第一個程式。
 
+```python
+# Hello World - the simplest program
+print("Hello World!")
+
+# vs complex programs like Chrome that handle:
+# - Rendering HTML/CSS
+# - JavaScript execution
+# - Network requests
+# - Security, tabs, extensions...
+```
+
 ### 今天最大的收穫
 
 原來 Computer Science 不只是寫程式，而是在研究「如何讓電腦理解並執行人類的想法」。
 
 從智慧手錶到 Chrome 瀏覽器，背後其實都離不開 Computer Systems、Algorithms 與 Programming 的概念。
+
+> **統整：CS 的五大核心領域**
+> 1. Computer Systems（電腦系統）— 執行程式與處理資訊的機器
+> 2. Algorithms and Programming（演算法與程式設計）— 用程式碼告訴電腦做什麼
+> 3. Data and Analysis（資料與分析）
+> 4. Networks and the Internet（網路與網際網路）
+> 5. Impact of Computing（運算的影響）
 
 #ComputerScience #Coding #Programming #Algorithms #每日啃一點原文cs
 
@@ -93,10 +111,28 @@ Just outputting:
 "Hello World!"
 This is many people's first program when learning to code.
 
+```python
+# Hello World - the simplest program
+print("Hello World!")
+
+# vs complex programs like Chrome that handle:
+# - Rendering HTML/CSS
+# - JavaScript execution
+# - Network requests
+# - Security, tabs, extensions...
+```
+
 ### Biggest Takeaway Today
 
 Computer Science is not just about writing code — it's about studying "how to make computers understand and execute human ideas."
 
 From smart watches to Chrome browsers, they all rely on the concepts of Computer Systems, Algorithms, and Programming.
+
+> **Summary: The Five Concept Areas of CS**
+> 1. Computer Systems — Machines that run programs and process information
+> 2. Algorithms and Programming — Using code to tell computers what to do
+> 3. Data and Analysis
+> 4. Networks and the Internet
+> 5. Impact of Computing
 
 #ComputerScience #Coding #Programming #Algorithms #CSDailyChallenge
