@@ -1,79 +1,87 @@
-## Ch1 - 什麼是電腦科學？
+## 日更挑戰 Day 1 — 每日啃一點原文 CS & Coding 教科書
 
-![CS Definition](images/S__50610179_0.jpg)
+### [Ch1-2] Computer Science（電腦科學）
 
-**Computer Science（電腦科學）** 包含：
-- 基本的硬體（Hardware）與軟體（Software）
-- 問題解決（Problem Solving）
-- 研究電腦如何設計、處理資訊（Study of computers, design, process information）
+Computer Science（電腦科學）不只是使用電腦，而是學習如何透過程式與技術來解決問題（Problem Solving）。
 
-> **Computer Scientist（電腦科學家）** 意味著從一個單純的「消費者」轉變為「創造者」。
-
-## CS 是什麼？CS 不是什麼？
+### Computer Science IS：
 
 ![CS IS and IS NOT](images/S__50610181_0.jpg)
 
-| Computer Science **IS** | Computer Science **IS NOT** |
-|---|---|
-| 建立 App（應用程式） | 在網路上看影片 |
-| 自己寫遊戲 | 玩遊戲 |
-| 寫程式計算答案 | 用筆電做數學作業 |
-| 寫程式自動發留言 | 在朋友的照片下留言 |
+- Create applications（開發應用程式）
+- Program your own games（撰寫自己的遊戲）
+- Write programs to calculate answers（設計自動計算程式）
+- Build automation tools（建立自動化工具）
+
+### Computer Science IS NOT：
+
+- Watching videos online（看影片）
+- Playing games（玩遊戲）
+- Doing homework on a laptop（用電腦寫作業）
+- Commenting on social media posts（留言互動）
 
 ![Key Takeaway](images/S__50610182_0.jpg)
 
-## 重點整理
+重點不是「使用科技」，而是「創造科技」。
 
-- **IS NOT** 的例子都只是「使用」科技
-- **IS** 的例子都是「創造」新科技
-- **DON'T JUST PLAY ON YOUR PHONE — PROGRAM IT!!**
+Computer Scientist（電腦科學家）代表從 Consumer（消費者／使用者）轉變成 Creator（創造者／開發者），學習如何利用程式設計將想法變成現實。
+
+> Don't just play on your phone, program it!
 
 ```python
-# CS is about CREATING, not just CONSUMING
-creator = True
-consumer = False
+# Are you a consumer or a creator?
+def check_role(action):
+    creators = ["create app", "program game", "write code", "build tools"]
+    if action in creators:
+        return "You're a Computer Scientist!"
+    return "You're just using technology."
 
-if creator:
-    print("You're a computer scientist!")
+print(check_role("create app"))
 ```
+
+#ComputerScience #Coding #Programming #每日啃一點原文cs
 
 <!-- EN -->
 
-## Ch1 - What is Computer Science?
+## Daily Challenge Day 1 — Reading CS & Coding Textbooks Every Day
 
-![CS Definition](images/S__50610179_0.jpg)
+### [Ch1-2] Computer Science
 
-**Computer Science** includes:
-- Basic Hardware & Software
-- Problem Solving
-- Study of computers, design, and how to process information
+Computer Science is not just about using computers — it's about learning how to solve problems through programming and technology (Problem Solving).
 
-> **Computer Scientist** means shifting from being only a **consumer** to being a **creator**.
-
-## What CS IS and IS NOT
+### Computer Science IS:
 
 ![CS IS and IS NOT](images/S__50610181_0.jpg)
 
-| Computer Science **IS** | Computer Science **IS NOT** |
-|---|---|
-| Create app (application or program) | Watching video on the internet |
-| Programming your own game | Playing a game |
-| Writing a program that calculates answers | Doing math homework on laptop |
-| Writing a program to auto-post comments | Commenting on a friend's photo |
+- Create applications
+- Program your own games
+- Write programs to calculate answers
+- Build automation tools
+
+### Computer Science IS NOT:
+
+- Watching videos online
+- Playing games
+- Doing homework on a laptop
+- Commenting on social media posts
 
 ![Key Takeaway](images/S__50610182_0.jpg)
 
-## Key Takeaways
+The key is not "using technology" but "creating technology."
 
-- All examples in **IS NOT** only **use** technology
-- All examples in **IS** list **create** new technology
-- **DON'T JUST PLAY ON YOUR PHONE — PROGRAM IT!!**
+A Computer Scientist represents the shift from Consumer to Creator — learning how to turn ideas into reality through programming.
+
+> Don't just play on your phone, program it!
 
 ```python
-# CS is about CREATING, not just CONSUMING
-creator = True
-consumer = False
+# Are you a consumer or a creator?
+def check_role(action):
+    creators = ["create app", "program game", "write code", "build tools"]
+    if action in creators:
+        return "You're a Computer Scientist!"
+    return "You're just using technology."
 
-if creator:
-    print("You're a computer scientist!")
+print(check_role("create app"))
 ```
+
+#ComputerScience #Coding #Programming #CSDailyChallenge

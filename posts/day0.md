@@ -1,53 +1,47 @@
-## 學習之旅的起點
-
-今天開始了一個新的挑戰：每天閱讀 CS 與程式設計的教科書，做筆記、畫圖、寫心得，記錄自己的學習過程。
-
-## 使用的書籍
+## 日更挑戰 Day0 — 每日啃一點原文 CS & Coding 教科書
 
 ![Book Cover](images/S__50610180_0.jpg)
 
-這本書是 **"Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook"**，涵蓋了電腦科學的基礎概念，從硬體、軟體到演算法和程式設計。
+### [Ch1-1] Computer Science（電腦科學）
 
-## 為什麼要做這件事？
+**Computer Science（電腦科學）** 包含基本的 Hardware（硬體）與 Software（軟體）
 
-- 系統性地學習 CS 基礎知識
-- 透過寫筆記加深理解
-- 建立自己的知識庫
-- 養成每天學習的習慣
+- 著重於 Problem Solving（問題解決）
+- 研究電腦如何 design（設計）、運作（operator）以及處理資訊（Information Processing）
 
-## 目標
+![CS Definition](images/S__50610179_0.jpg)
 
-每天讀一個章節或主題，整理成筆記發在這個部落格上。Let's go!
+> **Computer Scientist（電腦科學家）** 意味著從單純的 Consumer（使用者）轉變成能夠 Creator（創造與開發）的人。
 
 ```python
-print("Hello, String Studio!")
-print("Day 0 - The journey begins.")
+# From consumer to creator
+role = "creator"
+print(f"I am a {role}!")
 ```
+
+#comingsoon #codinglife #computer #每日啃一點原文CS
 
 <!-- EN -->
 
-## The Starting Point
-
-Today marks the beginning of a new challenge: reading CS and programming textbooks every day, taking notes with illustrations, and documenting my learning journey.
-
-## The Book
+## Daily Challenge Day0 — Reading CS & Coding Textbooks Every Day
 
 ![Book Cover](images/S__50610180_0.jpg)
 
-The book is **"Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook"**, covering CS fundamentals from hardware and software to algorithms and programming.
+### [Ch1-1] Computer Science
 
-## Why Am I Doing This?
+**Computer Science** includes basic Hardware and Software.
 
-- Systematically learn CS fundamentals
-- Deepen understanding through note-taking
-- Build my own knowledge base
-- Develop a daily learning habit
+- Focuses on Problem Solving
+- Studies how computers design, operate, and process information (Information Processing)
 
-## Goal
+![CS Definition](images/S__50610179_0.jpg)
 
-Read one chapter or topic every day and publish notes on this blog. Let's go!
+> **Computer Scientist** means shifting from being just a Consumer to becoming a Creator — someone who can build and develop.
 
 ```python
-print("Hello, String Studio!")
-print("Day 0 - The journey begins.")
+# From consumer to creator
+role = "creator"
+print(f"I am a {role}!")
 ```
+
+#comingsoon #codinglife #computer #CSDailyChallenge

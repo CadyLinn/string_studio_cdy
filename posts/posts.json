@@ -1,65 +1,65 @@
 [
   {
     "slug": "day0",
-    "title": "Day 0 - 學習之旅的起點",
-    "title_en": "Day 0 - The Starting Point",
+    "title": "Day 0 - [Ch1-1] Computer Science 電腦科學",
+    "title_en": "Day 0 - [Ch1-1] Computer Science",
     "date": "2026-06-14",
-    "summary": "開始每天閱讀 CS 教科書，記錄學習過程的第一天。",
-    "summary_en": "The first day of reading CS textbooks daily and documenting the journey.",
-    "tags": ["intro", "learning"]
+    "summary": "CS 的定義：硬體與軟體、問題解決、從 Consumer 到 Creator 的轉變。",
+    "summary_en": "Definition of CS: hardware & software, problem solving, and the shift from Consumer to Creator.",
+    "tags": ["CS fundamentals", "Ch1"]
   },
   {
     "slug": "day1",
-    "title": "Day 1 - 什麼是電腦科學？",
-    "title_en": "Day 1 - What is Computer Science?",
+    "title": "Day 1 - [Ch1-2] CS IS and IS NOT",
+    "title_en": "Day 1 - [Ch1-2] CS IS and IS NOT",
     "date": "2026-06-15",
-    "summary": "CS 的定義、CS IS and IS NOT 比較表，以及「從消費者到創造者」的核心精神。",
-    "summary_en": "Definition of CS, the IS and IS NOT comparison table, and the spirit of shifting from consumer to creator.",
+    "summary": "電腦科學不是「使用科技」，而是「創造科技」。Don't just play on your phone, program it!",
+    "summary_en": "CS is not about 'using technology' but 'creating technology.' Don't just play on your phone, program it!",
     "tags": ["CS fundamentals", "Ch1"]
   },
   {
     "slug": "day2",
-    "title": "Day 2 - CS 的五大概念領域",
-    "title_en": "Day 2 - The Five Concept Areas of CS",
+    "title": "Day 2 - [Ch1-3] 電腦科學的五大核心領域",
+    "title_en": "Day 2 - [Ch1-3] The Five Concept Areas of CS",
     "date": "2026-06-16",
-    "summary": "電腦系統、演算法與程式設計、資料分析、網路、運算影響。",
-    "summary_en": "Computer systems, algorithms & programming, data analysis, networks, and impact of computing.",
+    "summary": "電腦系統、演算法與程式設計、資料分析、網路、運算影響。CS 不只是寫程式。",
+    "summary_en": "Computer Systems, Algorithms & Programming, Data Analysis, Networks, Impact of Computing. CS is more than just coding.",
     "tags": ["CS fundamentals", "Ch1"]
   },
   {
     "slug": "day3",
-    "title": "Day 3 - 圖靈模型（Turing Model）",
-    "title_en": "Day 3 - The Turing Model",
+    "title": "Day 3 - [Ch1-4] Algorithm vs Programming",
+    "title_en": "Day 3 - [Ch1-4] Algorithm vs Programming",
     "date": "2026-06-17",
-    "summary": "Alan Turing 1937 年提出的通用計算裝置概念，圖靈機的意義。",
-    "summary_en": "Alan Turing's 1937 concept of a universal computational device and the significance of the Turing Machine.",
-    "tags": ["Turing", "theory", "Ch1"]
+    "summary": "Algorithm 決定「要做什麼」，Programming 決定「怎麼告訴電腦去做」。",
+    "summary_en": "Algorithm determines 'what to do,' Programming determines 'how to tell the computer to do it.'",
+    "tags": ["algorithm", "programming", "Ch1"]
   },
   {
     "slug": "day4",
-    "title": "Day 4 - 資料處理器（Data Processors）",
-    "title_en": "Day 4 - Data Processors",
+    "title": "Day 4 - [Ch1-1] Turing Model 圖靈模型",
+    "title_en": "Day 4 - [Ch1-1] Turing Model",
     "date": "2026-06-18",
-    "summary": "電腦作為資料處理器的基本模型：輸入 → 處理 → 輸出。",
-    "summary_en": "The basic model of a computer as a data processor: Input → Process → Output.",
-    "tags": ["data processor", "Ch1"]
+    "summary": "Alan Turing 1937 年提出通用計算裝置，電腦的本質：Input → Process → Output。",
+    "summary_en": "Alan Turing's 1937 Universal Computational Device. The essence of computers: Input → Process → Output.",
+    "tags": ["Turing", "data processor", "Ch1"]
   },
   {
     "slug": "day5",
-    "title": "Day 5 - 可程式化資料處理器",
-    "title_en": "Day 5 - Programmable Data Processors",
+    "title": "Day 5 - Turing Model 續篇：可程式化資料處理器",
+    "title_en": "Day 5 - Turing Model Continued: Programmable Data Processors",
     "date": "2026-06-19",
-    "summary": "通用型電腦的核心：加入「程式」元素，相同資料不同程式、相同程式不同資料。",
-    "summary_en": "The core of general-purpose computers: adding the 'program' element. Same data different programs, same program different data.",
-    "tags": ["programmable", "Turing", "Ch1"]
+    "summary": "同一組資料，套用不同的程式，就能得到完全不同的結果。真正決定結果的是「程式規則」。",
+    "summary_en": "Same data, different programs, completely different results. What truly determines the outcome is the 'program rules.'",
+    "tags": ["Turing", "programmable", "Ch1"]
   },
   {
     "slug": "day6",
     "title": "Day 6 - RAG 檢索增強生成",
     "title_en": "Day 6 - RAG (Retrieval-Augmented Generation)",
     "date": "2026-06-20",
-    "summary": "RAG 架構的運作原理：檢索、增強、生成，以及為什麼需要 RAG。",
-    "summary_en": "How RAG works: Retrieve, Augment, Generate, and why we need RAG.",
+    "summary": "RAG 讓 AI 從「會聊天」走向「真正能工作」：先查資料，再回答問題。",
+    "summary_en": "RAG transforms AI from 'good at chatting' to 'actually able to work': look up the data first, then answer.",
     "tags": ["RAG", "AI", "LLM"]
   }
 ]

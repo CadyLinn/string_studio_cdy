@@ -1,71 +1,121 @@
-## 1.1 圖靈模型（Turing Model）
+## 日更挑戰 Day 3 — 每日啃一點原文 CS & Coding 教科書
 
-![Turing Model Notes](images/S__50610185_0.jpg)
+### 【Ch1-4】Algorithm vs Programming（演算法與程式設計）
 
-### Alan Turing 與通用計算裝置
+很多人以為寫程式就是直接開始打 Code，但其實在 Computer Science（電腦科學）中，通常會先經過兩個步驟。
 
-**1937 年**，Alan Turing 首次描述了**通用計算裝置**（universal computational device）的概念。
+### Step 1：Algorithm（演算法）
 
-他提出：所有的計算都可以由一種特殊的機器來執行，這種機器現在被稱為 **Turing Machine（圖靈機）**。
+在開始寫程式之前，Computer Scientist（電腦科學家）需要先思考：
 
-### 圖靈機的意義
+> 「我要讓電腦完成什麼任務？」
 
-- 是一種對計算的**數學描述**（mathematical description）
-- 也是計算的**哲學定義**（philosophical definition of computation）
-- Turing 將人在計算時的動作抽象化，建立了這個模型
+並將解決問題的流程拆解成一步一步的指令。
 
-### 重點
+這個步驟稱為 **Algorithm（演算法）**。
 
-圖靈機不是一台實際的機器，而是一個理論模型。它告訴我們：什麼是「可計算的」，什麼是「不可計算的」。
+簡單來說，演算法就是解決問題的方法與流程。
 
-> 任何現代電腦能做的事，理論上圖靈機都能做到。
+例如：
+1. 輸入兩個數字
+2. 將兩個數字相加
+3. 顯示結果
 
+這就是一個簡單的演算法。
+
+### Step 2：Programming（程式設計）
+
+當演算法設計完成後，下一步就是把這些指令翻譯成電腦能理解的語言。
+
+例如：Python、Java、C#、JavaScript
+
+這個過程稱為 **Programming（程式設計）**。
+
+當演算法被轉換成程式碼後，它就成為真正可以執行的 Program（程式）。
+
+### 今天最大的收穫
+
+Computer（電腦）其實非常強大，但並不聰明。它不會自己思考，也不會知道你想做什麼。它只能按照收到的指令一步一步執行。
+
+因此：
+- **Algorithm** 決定「要做什麼」
+- **Programming** 決定「怎麼告訴電腦去做」
+
+程式的本質，就是把人類的想法轉換成電腦能理解的語言。
+
+```python
+# Algorithm: Add two numbers
+# Step 1: Input two numbers
+# Step 2: Add them
+# Step 3: Display result
+
+# Programming: Translate algorithm into Python
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+result = a + b
+print(f"Result: {result}")
 ```
-Turing Machine (Conceptual Model):
-┌─────────────────────────┐
-│  Tape: ... | 0 | 1 | 1 | 0 | B | ...
-│              ↑
-│         Read/Write Head
-│
-│  State: q1
-│  Rules: (q1, 0) → (q2, 1, R)
-│         (q1, 1) → (q1, 0, L)
-└─────────────────────────┘
-```
+
+#ComputerScience #Programming #Algorithm #每日啃一點原文cs
 
 <!-- EN -->
 
-## 1.1 The Turing Model
+## Daily Challenge Day 3 — Reading CS & Coding Textbooks Every Day
 
-![Turing Model Notes](images/S__50610185_0.jpg)
+### [Ch1-4] Algorithm vs Programming
 
-### Alan Turing and the Universal Computational Device
+Many people think programming means jumping straight into writing code, but in Computer Science, there are usually two steps involved.
 
-In **1937**, Alan Turing first described the idea of a **universal computational device**.
+### Step 1: Algorithm
 
-He proposed that all computation could be performed by a special kind of machine, now called a **Turing Machine**.
+Before writing any code, a Computer Scientist needs to think:
 
-### Significance of the Turing Machine
+> "What task do I want the computer to accomplish?"
 
-- It is a **mathematical description** of such a machine
-- It provides a **philosophical definition of computation**
-- Turing based the model on the actions that people perform when involved in computation
+And break down the problem-solving process into step-by-step instructions.
 
-### Key Point
+This step is called an **Algorithm**.
 
-The Turing Machine is not an actual physical machine — it is a theoretical model. It tells us what is "computable" and what is "not computable."
+Simply put, an algorithm is the method and process for solving a problem.
 
-> Anything a modern computer can do, a Turing Machine can theoretically do as well.
+For example:
+1. Input two numbers
+2. Add the two numbers
+3. Display the result
 
+This is a simple algorithm.
+
+### Step 2: Programming
+
+Once the algorithm is designed, the next step is to translate those instructions into a language the computer can understand.
+
+For example: Python, Java, C#, JavaScript
+
+This process is called **Programming**.
+
+When an algorithm is converted into code, it becomes a real executable Program.
+
+### Biggest Takeaway Today
+
+Computers are incredibly powerful, but they're not smart. They can't think on their own and don't know what you want to do. They can only execute instructions step by step.
+
+Therefore:
+- **Algorithm** determines "what to do"
+- **Programming** determines "how to tell the computer to do it"
+
+The essence of programming is translating human ideas into a language computers can understand.
+
+```python
+# Algorithm: Add two numbers
+# Step 1: Input two numbers
+# Step 2: Add them
+# Step 3: Display result
+
+# Programming: Translate algorithm into Python
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+result = a + b
+print(f"Result: {result}")
 ```
-Turing Machine (Conceptual Model):
-┌─────────────────────────┐
-│  Tape: ... | 0 | 1 | 1 | 0 | B | ...
-│              ↑
-│         Read/Write Head
-│
-│  State: q1
-│  Rules: (q1, 0) → (q2, 1, R)
-│         (q1, 1) → (q1, 0, L)
-└─────────────────────────┘
-```
+
+#ComputerScience #Programming #Algorithm #CSDailyChallenge

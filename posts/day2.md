@@ -1,26 +1,40 @@
-## CS 的五大概念領域
+## 日更挑戰 Day 2 — 每日啃一點原文 CS & Coding 教科書
 
-![Five Concept Areas](images/S__50610183_0.jpg)
+### 【Ch1-3】The Five Concept Areas of Computer Science（電腦科學的五大核心領域）
 
-電腦科學可以分為 **五大概念領域（Five Concept Areas）**：
+今天讀到一個很有趣的觀念：
+Computer Science（電腦科學）其實可以拆分成五個主要的研究領域（Concept Areas），而我們平常接觸到的程式設計只是其中的一部分。
 
 ### 1. Computer Systems（電腦系統）
 
-- 電腦系統是能夠執行程式、處理資訊的機器
-- 例如：桌上型電腦、筆記型電腦、手機
-- 許多電子裝置都由程式驅動，內建小型電腦
-- 例如：洗碗機、電視、智慧手錶，甚至某些燈泡
+![Five Concept Areas](images/S__50610183_0.jpg)
+
+Computer System（電腦系統）是能夠執行程式（Programs）並處理資訊（Information）的機器。
+
+常見例子：
+- Desktop Computers（桌上型電腦）
+- Laptops（筆記型電腦）
+- Smartphones（智慧型手機）
+
+其實許多日常電子產品內部也有小型電腦與程式在運作，例如：
+- Dishwashers（洗碗機）
+- TVs（電視）
+- Smart Watches（智慧手錶）
+- Smart Light Bulbs（智慧燈泡）
 
 ### 2. Algorithms and Programming（演算法與程式設計）
 
 ![Algorithms and Programming](images/S__50610184_0.jpg)
 
-- 演算法和程式設計涉及撰寫程式（code）來告訴電腦要做什麼
-- 程式可以很**複雜**：
-  - 像 iTunes、Safari、Chrome 或 Roblox
-  - 遵循不同的指令集
-- 程式也可以很**簡單**：
-  - 像一個只印出 "Hello World!" 的程式
+Algorithms（演算法）與 Programming（程式設計）就是透過撰寫 Code（程式碼）告訴電腦該做什麼事情。
+
+程式可以非常複雜：
+- iTunes、Safari、Chrome、Roblox
+- 它們需要處理大量不同的指令與邏輯
+
+但程式也可以非常簡單：
+- 只輸出一句 "Hello World!"
+- 這也是許多人學習程式設計的第一個程式
 
 ### 3. Data and Analysis（資料與分析）
 ### 4. Networks and the Internet（網路與網際網路）
@@ -28,47 +42,63 @@
 
 > 後面三個領域會在之後的章節深入討論。
 
-## 心得
+### 今天最大的收穫
 
-五大領域讓我看到 CS 不只是寫程式，還包含系統設計、資料分析、網路通訊和社會影響。
+原來 Computer Science 不只是寫程式，而是在研究「如何讓電腦理解並執行人類的想法」。
+
+從智慧手錶到 Chrome 瀏覽器，背後其實都離不開 Computer Systems、Algorithms 與 Programming 的概念。
 
 ```python
-# A simple program vs a complex one
-# Simple:
+# Hello World - the simplest program
 print("Hello World!")
 
-# Complex programs like Chrome handle:
+# vs complex programs like Chrome that handle:
 # - Rendering HTML/CSS
 # - JavaScript execution
 # - Network requests
 # - Security, tabs, extensions...
 ```
 
+#ComputerScience #Coding #Programming #Algorithms #每日啃一點原文cs
+
 <!-- EN -->
 
-## The Five Concept Areas of Computer Science
+## Daily Challenge Day 2 — Reading CS & Coding Textbooks Every Day
 
-![Five Concept Areas](images/S__50610183_0.jpg)
+### [Ch1-3] The Five Concept Areas of Computer Science
 
-CS can be divided into **five concept areas** (main parts) of study:
+Today I read something interesting: Computer Science can actually be divided into five main research areas (Concept Areas), and the programming we commonly encounter is just one part of it.
 
 ### 1. Computer Systems
 
-- Computer systems are machines that run programs and process information
-- Examples: desktop computers, laptops, and phones
-- Many electronic devices are run by PROGRAMS and have small built-in computers
-- Examples: dishwashers, TVs, smart watches, and even some light bulbs
+![Five Concept Areas](images/S__50610183_0.jpg)
+
+A Computer System is a machine capable of running Programs and processing Information.
+
+Common examples:
+- Desktop Computers
+- Laptops
+- Smartphones
+
+Many everyday electronics also have small computers and programs running inside:
+- Dishwashers
+- TVs
+- Smart Watches
+- Smart Light Bulbs
 
 ### 2. Algorithms and Programming
 
 ![Algorithms and Programming](images/S__50610184_0.jpg)
 
-- Algorithms and programming involve writing programs (code) that tell computers what to do
-- Programs can be **complex**:
-  - Like iTunes, Safari, Chrome, or Roblox
-  - Following different instructions
-- Programs can also be **simple**:
-  - Like a program that only prints out the message "Hello World!"
+Algorithms and Programming involve writing Code to tell computers what to do.
+
+Programs can be very complex:
+- iTunes, Safari, Chrome, Roblox
+- They need to handle many different instructions and logic
+
+But programs can also be very simple:
+- Just outputting "Hello World!"
+- This is many people's first program when learning to code
 
 ### 3. Data and Analysis
 ### 4. Networks and the Internet
@@ -76,18 +106,21 @@ CS can be divided into **five concept areas** (main parts) of study:
 
 > The last three areas will be covered in later chapters.
 
-## Reflection
+### Biggest Takeaway Today
 
-The five areas show that CS is not just about coding — it also includes system design, data analysis, networking, and societal impact.
+Computer Science is not just about writing code — it's about studying "how to make computers understand and execute human ideas."
+
+From smart watches to Chrome browsers, they all rely on the concepts of Computer Systems, Algorithms, and Programming.
 
 ```python
-# A simple program vs a complex one
-# Simple:
+# Hello World - the simplest program
 print("Hello World!")
 
-# Complex programs like Chrome handle:
+# vs complex programs like Chrome that handle:
 # - Rendering HTML/CSS
 # - JavaScript execution
 # - Network requests
 # - Security, tabs, extensions...
 ```
+
+#ComputerScience #Coding #Programming #Algorithms #CSDailyChallenge
