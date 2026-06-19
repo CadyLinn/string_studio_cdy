@@ -1,5 +1,9 @@
 ## 日更挑戰 Day 3 — 每日啃一點原文 CS & Coding 教科書
 
+![Five Concept Areas of CS](images/S__50610183.jpg)
+
+![Algorithms and Programming](images/S__50610184.jpg)
+
 ### Algorithm vs Programming（演算法與程式設計）
 
 很多人以為寫程式就是直接開始打 Code，但其實在 Computer Science（電腦科學）中，通常會先經過兩個步驟。
